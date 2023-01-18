@@ -1,4 +1,4 @@
-### Mission :
+### Objectif :
 
 Développer un algorithme capable de classer les images en fonction de la race du chien présent sur l'image.
 
