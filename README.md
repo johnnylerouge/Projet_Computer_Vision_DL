@@ -1,8 +1,8 @@
-### Objectif :
+## Objectif :
 
 Développer un algorithme capable de classer les images en fonction de la race du chien présent sur l'image.
 
-### Compétences validées :
+## Compétences validées :
 
 * Adapter les paramètres d'un modèle de Deep Learning afin de l’améliorer
 * Transformer les variables pertinentes d'un modèle de Deep Learning
