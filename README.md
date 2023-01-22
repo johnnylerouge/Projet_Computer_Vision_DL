@@ -1,4 +1,4 @@
-## Objectif :
+## Mission :
 
 Une association de protection des animaux possède une base de données qui répertorie ses pensionnaires (il s'agit de chiens en grande partie).
 
