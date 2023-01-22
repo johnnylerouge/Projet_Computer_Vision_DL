@@ -1,6 +1,10 @@
 ## Objectif :
 
-Développer un algorithme capable de classer les images en fonction de la race du chien présent sur l'image.
+Une association de protection des animaux possède une base de données qui répertorie ses pensionnaires (il s'agit de chiens en grande partie).
+
+Le nombre de pensionnaires ayant augmenté, il devient compliqué de référencer les images des animaux accumulées depuis plusieurs années.**Il nous est donc demandé de mettre au point un algorithme capable de classer les images en fonction de la race du chien présent sur l'image.**
+
+Pour ce faire, nous aurons recours aux algorithmes de Deep Learning pour la reconnaissance de la race de chien afin d'aider dans leur travail d'indexation.
 
 ## Compétences validées :
 
